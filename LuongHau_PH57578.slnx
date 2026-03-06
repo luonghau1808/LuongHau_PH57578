@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TestFinal.Automation/TestFinal.Automation.csproj" />
+  <Project Path="TestFinal.Test/TestFinal.Test.csproj" />
+  <Project Path="TestFinal/TestFinal.csproj" />
+</Solution>
